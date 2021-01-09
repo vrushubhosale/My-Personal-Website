@@ -1,0 +1,17 @@
+.head{
+    text-align: center;
+    background-color: aqua;
+}
+.body{
+    text-align: center;
+    background-color: aquamarine;
+}
+.name{
+    image-resolution: 50px;
+}
+.para{
+    text-align: center;
+}
+.img{
+ image-resolution: 50px;   
+}
